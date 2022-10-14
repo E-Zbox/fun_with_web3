@@ -2,6 +2,7 @@ const { join } = require("path");
 const HTMLWebpackPlugin = require("html-webpack-plugin");
 
 module.exports = {
+    mode: "production",
     entry: {
         bundle: join(__dirname, "./src/index.js"),
     },
@@ -30,6 +31,7 @@ module.exports = {
     },
     plugins: [
         new HTMLWebpackPlugin({
+            favicon: join(__dirname, "./src/public/fun_with_web3-logo.ico"),
             template: join(__dirname, "./src/index.html"),
         }),
     ],
