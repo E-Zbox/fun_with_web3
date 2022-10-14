@@ -3,6 +3,8 @@
 ### Table of Content
 
 -   [Title](#fun-with-web3)
+-   [Description](#description)
+    -   [Technologies Used](#technologies-used)
 
 ## Description
 
