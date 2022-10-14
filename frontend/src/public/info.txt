@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: VT323-Regular
+font link: https://fonts.google.com/specimen/VT323
+font author: Peter Hull
+font author site: https://github.com/phoikoi
+Slogan Font: VT323-Regular
+
+icon designer: Larisa Skosyrska
+icon designer link: /Lara.Skosyrska
+        
+{"bg":"#E7F3FC","font":"#253D52","icon-gradient-0":"#007DE8","icon-gradient-1":"#A1C3DB","slogan":"#395166"}
+      

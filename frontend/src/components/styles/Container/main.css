@@ -1,0 +1,8 @@
+* {
+    display: grid;
+    place-items: center flex-start;
+    place-content: flex-start center ;
+    transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+    /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+    font-family: 'Courier New', Courier, monospace;
+}
