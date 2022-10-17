@@ -16,3 +16,9 @@ This is a project that shows how to interact with the various builtins provided 
 -   [**Webpack**](https://webpack.js.org/): is a free and open-source module bundler for JavaScript.
 -   [**React**](https://reactjs.org): is a free and open-source front-end JavaScript library for building user interfaces based on UI components
 -   [**Hardhat**](https://hardhat.org/): is an Ethereum development environment for professionals. It facilitates performing frequent tasks, such as running tests, automatically checking code for mistakes or interacting with a smart contract.
+
+#### Screenshots
+
+![Screenshot1](./screenshots/Screenshot_1.png)
+
+![Screenshot2](./screenshots/Screenshot_2.png)
